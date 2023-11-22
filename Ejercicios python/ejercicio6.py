@@ -1,3 +1,7 @@
+"""Escribir un programa en el cual se ingresen cuatro números, 
+calcular e informar la suma de los dos primeros y el producto 
+del tercero y el cuarto."""
+
 num1=int(input("ingrese el 1 numero"))
 num2=int(input("ingrese el 2 numero"))
 num3=int(input("ingrese el 3 numero"))
